@@ -1,0 +1,2 @@
+ALTER TABLE `cliente` 
+CHANGE COLUMN `telefone` `fone` VARCHAR(20) NULL DEFAULT NULL ;
